@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **chobencho/chobencho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![try](https://github.com/chobencho/chobencho/assets/119166395/90973268-67f5-45fb-a8fc-b649c8fce059)
+
+### Hi there 👋
