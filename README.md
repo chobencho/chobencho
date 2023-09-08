@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 ![try](https://github.com/chobencho/chobencho/assets/119166395/90973268-67f5-45fb-a8fc-b649c8fce059)
 
-### Hi there 👋
+👆は僕の信条と好きな言葉です。
+
+#### 20年卒社会人3年目です 👋
+勉強のために作ったアプリ等をアップしていきます！
+
+わからないことだらけなので、ガンガン吸収していきたいです！
+
