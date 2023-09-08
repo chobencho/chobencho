@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 わからないことだらけなので、ガンガン吸収していきたいです！
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chobencho&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chobencho&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chobencho&theme=solarized&utcOffset=8)
